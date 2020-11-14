@@ -87,7 +87,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">
-                    Laravel by wanyi
+                    Laravel by wanyi2333
                 </div>
             </div>
         </div>
